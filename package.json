@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Projeto em NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilpereira/nodejs-setup.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "William Pereira <wil.scp@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilpereira/nodejs-setup/issues"
+  },
+  "homepage": "https://github.com/wilpereira/nodejs-setup#readme"
+}
